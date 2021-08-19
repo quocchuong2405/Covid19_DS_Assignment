@@ -1,9 +1,7 @@
 # Covid19_DS_Assignment
 My Covid-19 prediction project for Discrete Structure course
 
-===================================================
 This submission contains the full report, short report, a folder to contain the source codes, and a folder to contain data sets.
-===================================================
 
 ===================================================
 
